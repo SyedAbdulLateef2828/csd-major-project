@@ -1,6 +1,6 @@
 # Image-Based Poultry Disease Detection and Farm Analytics Dashboard
 
-A Flask web application where farmers upload a photo of chicken droppings, get a
+A Flask web application where farmers upload a photo of chicken faeces, get a
 disease prediction from a traditional machine-vision model (no deep learning),
 and track their flock health on an analytics dashboard.
 
